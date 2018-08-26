@@ -33,6 +33,6 @@ This will open the iPython Notebook software and project file in your browser.
 
 ### Data
 
-The dataset used in this project is included as `diabetes.csv`. 
+### The dataset used in this project is included as `diabetes.csv`. 
 =======
 # Predict-Diabetes
