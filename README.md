@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Udacity Machine Learning Nanodegree: Capstone Project
 
 ## Intro
@@ -37,4 +36,3 @@ This will open the iPython Notebook software and project file in your browser.
 The dataset used in this project is included as `diabetes.csv`. 
 =======
 # Predict-Diabetes
->>>>>>> 118ef62a8710ec1f22072b3aec0b96de05a09d05
